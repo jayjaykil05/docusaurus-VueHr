@@ -1,0 +1,14 @@
+{
+  "docs": {
+    "Docusaurus": ["doc1"],
+    "Employee Master List": ["doc2"],
+    "Employee Policies": ["doc3"],
+    "Payroll": ["doc9"],
+    "Salary": ["doc10"],
+    "Timekeeping": ["doc11"],
+    "Work Schedules": ["doc12"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
