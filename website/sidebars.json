@@ -5,7 +5,7 @@
     "Employee Policies": ["doc3"],
     "Payroll": ["doc9"],
     "Salary": ["doc10"],
-    "Timekeeping": ["doc11"],
+    "Timekeeping": ["doc11","importAttendance","payrollPosting"],
     "Work Schedules": ["doc12"]
   },
   "docs-other": {

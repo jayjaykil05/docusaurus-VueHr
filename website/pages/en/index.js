@@ -36,10 +36,11 @@ class HomeSplash extends React.Component {
     );
 
     const ProjectTitle = (props) => (
-      <h2 className="projectTitle">
-        {props.title}
-        <small>{props.tagline}</small>
-      </h2>
+      <h1 className="purple-text"  >
+        VueHR User Manual
+        {/* {props.title}
+        <small>{props.tagline}</small> */}
+      </h1>
     );
 
     const PromoSection = (props) => (
@@ -199,7 +200,7 @@ class Index extends React.Component {
         <HomeSplash siteConfig={siteConfig} language={language} />
         <div className="mainContainer">
           <Features />
-          <FeatureCallout />
+ 
           <LearnHow />
           <TryOut />
           <Description />
