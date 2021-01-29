@@ -1,18 +1,15 @@
 ---
 id: payrollPosting
-title: tIME
+title: Posting Payroll
 
 ---
 
-I can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+* Select correct filter
 
-## Markdown Syntax
+![alt-text](assets/21.png)
 
-**Bold** _italic_ `code` [Links](#url)
+* Click post all or post for selected employee
 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet WWWWvelit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
+![alt-text](assets/22.png)
 
-* Hey
-* Ho
-* Let's Go
+* DTR will be posted in payroll page.

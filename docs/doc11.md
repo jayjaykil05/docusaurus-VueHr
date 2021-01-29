@@ -1,18 +1,12 @@
 ---
 id: doc11
-title: tIME
+title: Timekeeping and Payroll
 
 ---
+* Navigate to Timekeeping and Payroll > Timekeeping > Processing
 
-I can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+![alt-text](assets/16.png)
 
-## Markdown Syntax
+* Select Correct filter then search
 
-**Bold** _italic_ `code` [Links](#url)
-
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
-
-* Hey
-* Ho
-* Let's Go
+![alt-text](assets/17.png)

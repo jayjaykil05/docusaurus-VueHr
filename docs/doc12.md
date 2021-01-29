@@ -3,16 +3,13 @@ id: doc12
 title: Setup Work Schedules
 
 ---
+* Login to Vue as Admin, HR, or MSS user.
+ 
+ ![alt-text](assets/23.png)
 
-I can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+* Navigate to Setup > Work Schedules
+* Set Desired title
+* Add Work hours
+* Create
 
-## Markdown Syntax
-
-**Bold** _italic_ `code` [Links](#url)
-
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
-
-* Hey
-* Ho
-* Let's Go
+![alt-text](assets/24.png)

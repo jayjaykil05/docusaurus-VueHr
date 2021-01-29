@@ -1,18 +1,21 @@
 ---
 id: importAttendance
-title: tIME
+title: Import Attendance
 
 ---
 
-I can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+* Open attendance template file we have provided.
 
-## Markdown Syntax
+* Add or Update Employee data
 
-**Bold** _italic_ `code` [Links](#url)
+![alt-text](assets/18.png)
 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
+* Navigate to Timekeeping and Payroll > Timekeeping > Processing
+ 
+![alt-text](assets/19.png)
 
-* Hey
-* Ho
-* Let's Go
+
+* Import the attendance template
+* Success message will appear when import is done without errors.
+
+![alt-text](assets/20.png)

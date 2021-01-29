@@ -6,7 +6,7 @@
     "Payroll": ["doc9"],
     "Salary": ["doc10"],
     "Timekeeping": ["doc11","importAttendance","payrollPosting"],
-    "Work Schedules": ["doc12"]
+    "Work Schedules": ["doc12","addCalendar","importCalendar"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
