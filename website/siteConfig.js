@@ -24,9 +24,9 @@ const siteConfig = {
   title: 'VueHr', // Title for your website.
   tagline: 'User Manual',
   url: 'https://jayjaykil05.github.io', // Your website URL
-  baseUrl: '/vueManual/',
-  projectName: 'vueManual',
-  organizationName: 'IA Innovations',
+  baseUrl: '/',
+  projectName: 'docusaurus-VueHr',
+  organizationName: 'jayjaykil05',
   // url: 'https://your-docusaurus-test-site.com', // Your website URL
   //baseUrl: '/', // Base URL for your project */
   //// For github.io type URLs, you would set the url and baseUrl like:
@@ -42,7 +42,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
+    {doc: 'doc2', label: 'Docs'},
     {doc: 'doc4', label: 'API'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
