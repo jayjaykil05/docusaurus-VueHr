@@ -4,12 +4,21 @@ title: Posting Payroll
 
 ---
 
-* Select correct filter
+1. Login to Vue using Admin or HR account. 
+
+![alt-text](assets/Picture2.png)
+
+2. Go to Timekeeping and Payroll > Timekeeping > Processing
+ 
+![alt-text](assets/19.png)
+
+
+3. Set the search filter then click search.
 
 ![alt-text](assets/21.png)
 
-* Click post all or post for selected employee
+4. Click `post all` button or `post` button for selected employee
 
 ![alt-text](assets/22.png)
 
-* DTR will be posted in payroll page.
+5. DTR will be posted in payroll page.

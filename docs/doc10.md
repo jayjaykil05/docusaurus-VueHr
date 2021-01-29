@@ -7,25 +7,42 @@ title: Import Salary
 Salary entry is generated automatically with 0 amount when a new employee is added.
 To update an employee's salary or multiple salsaries, Admin/HR users can either import salaries using the template or manually edit their salary in the salary page.
 
+These are the periods available: 
+* Period_15/30, 
+* Weekly_Monday, 
+* Weekly_Tuesday, 
+* Weekly_Thursday, 
+* Weekly_Friday, 
+* Weekly_Saturday, 
+* Weekly_Sunday
 
-## Import Salaries 
-
-* Update and Edit the Salary template.
-
-> **Note**: Periods available: Period_15/30, Weekly_Monday, Weekly_Tuesday, Weekly_Thursday, Weekly_Friday, Weekly_Saturday, Weekly_Sunday
+These are the salary types: 
+* Semi-Monthly, 
+* Monthly, Daily
 
 > **Note**: SalaryType is how the payroll for the employee is calculated.
 
-> **Note**: SalaryTypes are : Semi-Monthly, Monthly, Daily
+
+
+## Import Salaries 
+
+1. Add/Update the Salary template.
+
+
+
 
 ![alt-text](assets/Picture13.png)
 
-* Navigate to the _Policies_ page by selecting `Setup` > `Salaries` in the Nav Bar.
+2. Login to Vue using Admin or HR account. 
+
+![alt-text](assets/Picture2.png)
+
+3. Go to `Setup` > `Salaries`.
 
 ![alt-text](assets/Picture14.png)
 
-* Click the `Choose File` button then navigate and select the Salaries Template file.
-* Click the `Import` button in the _Import Salaries_ modal.
+4. Click `Import` button then `Choose file`.
+5. Select the Schedules Template then click `Import`.
 
 ![alt-text](assets/Picture15.png)
 

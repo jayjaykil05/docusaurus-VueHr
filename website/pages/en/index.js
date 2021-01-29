@@ -37,7 +37,7 @@ class HomeSplash extends React.Component {
 
     const ProjectTitle = (props) => (
       <h1 className="purple-text"  >
-        VueHR User Manual
+        VUE HR User Manual
         {/* {props.title}
         <small>{props.tagline}</small> */}
       </h1>

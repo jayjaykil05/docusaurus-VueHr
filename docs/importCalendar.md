@@ -4,14 +4,22 @@ title: Import Calendar
 
 ---
 
-* Navigate to Setup > Calendars.
+1. Add/Update Schedules Template template.
+
+2. Login to Vue as Admin, HR, or MSS user.
+ 
+ ![alt-text](assets/23.png)
+
+3. Go to Setup > Calendars.
 
 ![alt-text](assets/25.png)
-* Edit calendar template
 
-![alt-text](assets/26.png)
 
-* Click import
+4. Click `Import` button then `Choose file`.
+
+![alt-text](assets/27.png)  
+5.  Select the Schedules Template then click `Import`.
 
 ![alt-text](assets/27.png)
+
 

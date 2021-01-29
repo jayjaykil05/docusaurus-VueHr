@@ -1,39 +1,35 @@
 ---
 id: doc2
-title: Adding Employee
+title: Add/Update Employee Profile
 ---
+In adding employees, these are the following steps you should follow.
 
-These are the instructions for adding employees.
+## Add/Update employees by import 
 
-## Adding Employees By Importing
-
-* Open Employee template file we have provided.
-* Add or Update Employee data
+1. Add/Update employee profile using template.
 
 ![alt-text](assets/Picture1.png)
 
-* Login to Vue as an Admin or HR.
+2. Login to VUE using your Admin or HR account.
 
-> **Note**: Click [here](/docs/users) to setup users.
+<!-- > **Note**: Click [here](/docs/users) to setup users. -->
 
 
 ![alt-text](assets/Picture2.png)
 
-* Navigate to the _Employee_ Page by selecting `Employee` in the Nav Bar.
-* Select the `Import` button to open up the _Import Employees_ modal.
+3. Go to _Employee_ Page.
+4. Click `Import` button then `Choose file`.
 
 ![alt-text](assets/Picture3.png)
 
-* Click the `Choose File` button then navigate and select the Employee Template file.
-* Click the `Import` button in the _Import Employees_ modal.
+5. Select the Employee Template then click `Import`.
 
 ![alt-text](assets/Picture4.png)
-* To check if employee list is successfully imported, search for an employee from the template in the _Employee_ Page.
+6. You will see a success message after the import.
 
-
-## Adding Employees BY Adding In the System Manually
+<!-- ## Adding Employees BY Adding In the System Manually
 
 * sample 1
 * sample 2
-* sample 3
+* sample 3 -->
 

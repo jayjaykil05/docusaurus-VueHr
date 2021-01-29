@@ -6,20 +6,18 @@ All Posted DTRs friom the timekeeping processing will appear in the Payroll page
 
 ## Generating Payroll
 
-* Login to Vue as an Admin or HR. 
-> **Note**: Click [here](/docs/users) to setup users.
+1. Login to Vue as an Admin or HR. 
+<!-- > **Note**: Click [here](/docs/users) to setup users. -->
 
 ![alt-text](assets/Picture2.png)
 
-* Navigate to the _Policies_ page by selecting `Timekeeping and Payroll ` > `Payroll ` in hte Nav Bar.
+2. Go to `Timekeeping and Payroll ` > `Payroll `.
 
 ![alt-text](assets/Picture11.png)
 
-* In the Payroll Page, set the correct filter and click `Search` button.
+3. Set the search filter then click search.
 
-> **Note**: Admin/Hr users can check employee DTR's are correct from the searched list.
-
-* Click `Generate Pay` button.
+4. Click `Generate Pay` button.
 
 ![alt-text](assets/Picture12.png)
 

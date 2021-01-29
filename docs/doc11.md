@@ -1,9 +1,14 @@
 ---
 id: doc11
-title: Timekeeping and Payroll
+title: Processing
 
 ---
-* Navigate to Timekeeping and Payroll > Timekeeping > Processing
+
+1. Login to Vue using Admin or HR account. 
+
+![alt-text](assets/Picture2.png)
+
+* Go to Timekeeping and Payroll > Timekeeping > Processing
 
 ![alt-text](assets/16.png)
 

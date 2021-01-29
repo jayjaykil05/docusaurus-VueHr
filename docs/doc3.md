@@ -1,9 +1,9 @@
 ---
 id: doc3
-title: Setup Employee Policies
+title: Setup Timekeeping Policies
 ---
 
-## List of Policies
+These the policies available to VUE HR:
 
 * Required Hours Per Week 
 * Required Hours Per Day 
@@ -12,7 +12,7 @@ title: Setup Employee Policies
 * Start Computing Late After (Flexible) – Will calculate late on flexible schedule
 * Late Grace Period (Mins) 
 * Start Late Count After Grace Period 
-* Round Off Lates – 1 – 15 = 30mins late, 16mins and up = 60 mins late
+* Round Off Lates 
 * No Lates or Undertime 
 * Paid Break – Will not deduct X mins of break in total work hours
 * Follow Break Schedule – Will calculate overbreak if the break log is not within the break schedule.
@@ -26,57 +26,54 @@ title: Setup Employee Policies
 * Allow Overtime when Required Hours in Week Reached – Has to reach required hours before calculating overtime
 * Allow Overtime when Required Work in Month Reached – Has to reach required hours before calculating overtime
 
-## Employee Policy Setup
+## Setup Timekeeping Policy for Employee
 
-### Employee Policy Setup using Template
+### Using Employee Template
 
-* Open Employee template file we have provided.
-* Add or Update Employee data.
+1. Add/Update employee template.
 
-> **Note**: _The Policies in the template has an Orange Header Color_.
+> **Note**: _Policies in the template have orange headers_.
 
 ![alt-text](assets/Picture5.png)
 
-* Login to Vue as an Admin or HR. 
-> **Note**: Click [here](/docs/users) to setup users.
+2. Login to Vue using Admin or HR account. 
 
 ![alt-text](assets/Picture2.png)
 
-* Navigate to the _Employee_ Page by selecting `Employee` in the Nav Bar.
-* Select the `Import` button to open up the _Import Employees_ modal.
+4. Go to _Employee_ Page.
+5. Click `Import` button then `Choose file`.
 
 ![alt-text](assets/Picture3.png)
 
-* Click the `Choose File` button then navigate and select the Employee Template file.
-* Click the `Import` button in the _Import Employees_ modal.
+6.  Select the Employee Template then click `Import`.
 
 ![alt-text](assets/Picture4.png)
 
-### Employee Policy Setup Manually
+7.  You will see a success message after the import.
 
-* Login to Vue as an Admin or HR. 
-> Click [here](/docs/users) to setup users.
+### Using Policy Page
+
+1. Login to Vue using Admin or HR account. 
 
 ![alt-text](assets/Picture2.png)
 
-* Navigate to the _Policies_ page by selecting `Setup` > `Policies` in the Nav Bar.
+2. Click `Setup` > `Policies`.
 
 ![alt-text](assets/Picture6.png)
 
 
-* In the _Policies_ page set the filter and click search.
+3. Set the search filter then click search.
 
 ![alt-text](assets/Picture7.png)
 
-
-* A list will show of all employees searched. Select `Edit` on the employee to open employee policies.
+4. Click `Edit` on the employee.
 
 ![alt-text](assets/Picture8.png)
 
-* The _Employee Policies_ page display all policies that can be edited. 
+5. Set the desired policy. 
 
 ![alt-text](assets/Picture9.png)
 
-* Click save to update the employee's policies.
+6. Click save to update the employee's policies.
 
 ![alt-text](assets/Picture10.png)

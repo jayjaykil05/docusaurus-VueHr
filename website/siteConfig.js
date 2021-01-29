@@ -21,7 +21,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'VueHr', // Title for your website.
+  title: 'VUE HR', // Title for your website.
   tagline: 'User Manual',
   url: 'https://your-docusaurus-test-site.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
