@@ -3,6 +3,10 @@ id: company
 title: Company
 
 ---
+This is used to determine an employee's company.
+
+These are the following steps for creating, updating and deleting Company.
+
 ## Creating New Company
 
 1. Login to Vue using  Admin/HR account.

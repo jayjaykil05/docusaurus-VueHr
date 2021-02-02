@@ -3,6 +3,7 @@ id: pos
 title: Positions
 
 ---
+These are the following steps for creating, updating and deleting Position.
 
 ## Create New Position 
 

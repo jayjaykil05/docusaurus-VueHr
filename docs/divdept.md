@@ -3,6 +3,7 @@ id: divdept
 title: Department
 
 ---
+These are the following steps for creating, updating and deleting Department.
 
 ## Create New Department 
 

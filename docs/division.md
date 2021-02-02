@@ -3,8 +3,9 @@ id: division
 title: Division
 
 ---
+These are the following steps for creating, updating and deleting Division.
 
-## Create New Department 
+## Create New Division 
 
 1. Login to Vue using Admin or HR account. 
 
@@ -22,7 +23,7 @@ title: Division
 5. Set the _Location_ and _Division Name_.
 
 6. Click `Create` button.
-> **Note** Click `Back to list` button to cancel company division.
+> **Note** Click `Back to list` button to cancel create division.
 
 ![alt-text](assets/divdept/6.png) 
 

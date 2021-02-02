@@ -3,6 +3,8 @@ id: customGroup
 title: Custom Groups
 
 ---
+These are the following steps for creating, updating and deleting Custom Group.
+
 
 ## Create New Custom Group 
 
