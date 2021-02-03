@@ -7,7 +7,7 @@
     "Work Schedules": ["doc12","addCalendar","importCalendar"],
     "Organization":["company","divdept","division","location","customGroup","pos","job"],
     "Leaves Entitlement":["leavetype","leaveconfig","leaveentitlement", "leaveEnrollment"],
-    "Benefit Entitlement":[""]
+    "Benefit Entitlement":["benefit", "benefitentitlement"]
 
   },
   "docs-other": {
