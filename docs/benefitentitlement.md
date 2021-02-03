@@ -4,9 +4,9 @@ title: Benefit Entitlement
 
 ---
 
-Benefit Setup is for creating different types of beenfits that employees are entitled to have.
+Benefit Entitlement is setting up created benefits for employees
 
-These are the following steps for creating, updating and deleting the leave types.
+These are the following steps for creating, updating and deleting the Benefit Entitlement.
 
 
 ## Creating New Benefit
@@ -15,16 +15,21 @@ These are the following steps for creating, updating and deleting the leave type
  
  ![alt-text](assets/23.png)
 
-2. Go to Setup > Benefits Entitlement > Benefits.
-3. Click `Create New` button.
+2. Go to Setup > Benefits Entitlement > Entitlement.
+3. Click `Create` button.
 
-![alt-text](assets/leave/5.png)  
+![alt-text](assets/bentitlement/1.png)  
 
-4. Set the _Title_, _Tax Code_ and _Period_ and then click `Create` button.
+4. A new row will be added to the list click `Edit`icon button.
+![alt-text](assets/bentitlement/2.png)  
 
-> **Note** Click `Back to list` button to cancel create benefit.
+5. Select the correct filter and then click `Next` button.
 
-![alt-text](assets/leave/6.png)  
+6. Select Benefit type and then click `Apply` button.
+
+> **Note** Click `Cancel` button to cancel create benefit. Click `Previous` to return to employee filter select.
+
+![alt-text](assets/bentitlement/3.png)  
 
 ## Edit/Update Benefit
 
@@ -32,17 +37,20 @@ These are the following steps for creating, updating and deleting the leave type
  
  ![alt-text](assets/23.png)
 
-2. Go to Setup > Benefits Entitlement > Benefits.
+2. Go to Setup > Benefits Entitlement > Entitlement.
 
-3. Click `Edit` button.
+![alt-text](assets/bentitlement/1.png)  
 
-![alt-text](assets/leave/5.png)  
+3. Click `Edit` icon button.
+![alt-text](assets/bentitlement/4.png)  
 
-4. Set the _Title_, _Tax Code_ and _Period_ and then click `Save` button.
+4. Select the correct filter and then click `Next` button.
 
-> **Note** Click `Back to list` button to cancel create benefit.
+5. Select Benefit type and then click `Apply` button.
 
-![alt-text](assets/leave/7.png)  
+> **Note** Click `Cancel` button to cancel create benefit. Click `Previous` to return to employee filter select.
+
+![alt-text](assets/bentitlement/5.png)  
 
 
 ## Delete Benefit
@@ -51,15 +59,11 @@ These are the following steps for creating, updating and deleting the leave type
 
 ![alt-text](assets/Picture2.png)
 
-2. Go to Setup > Benefits Entitlement > Benefits.
+2. Go to Setup > Benefits Entitlement > Entitlement.
 
-3. Click `Delete` button.
+3. Click red `Delete` icon button.
 
-![alt-text](assets/loc/1.png) 
+![alt-text](assets/bentitlement/1.png) 
 
-4. Click `Delete` button to confirm delete.
 
-> **Note** Click `Back to list` button to cancel delete Locations.
-
-![alt-text](assets/loc/4.png) 
-
+ 
