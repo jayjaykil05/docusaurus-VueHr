@@ -5,7 +5,10 @@
     "Salary": ["doc10"],
     "Timekeeping": ["doc3","importAttendance","doc11","payrollPosting"],
     "Work Schedules": ["doc12","addCalendar","importCalendar"],
-    "Organization":["company","divdept","division","location","customGroup","pos","job"]
+    "Organization":["company","divdept","division","location","customGroup","pos","job"],
+    "Leaves Entitlement":["leavetype","leaveconfig","leaveentitlement", "leaveEnrollment"],
+    "Benefit Entitlement":[""]
+
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
