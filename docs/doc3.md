@@ -1,6 +1,6 @@
 ---
 id: doc3
-title: Setup Timekeeping Policies
+title: Policies
 ---
 
 These the policies available to VUE HR:

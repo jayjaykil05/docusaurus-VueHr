@@ -8,7 +8,7 @@ title: Processing
 
 ![alt-text](assets/Picture2.png)
 
-* Go to Timekeeping and Payroll > Timekeeping > Processing
+* Go to Employment and Movement > Timekeeping > Processing
 
 ![alt-text](assets/16.png)
 

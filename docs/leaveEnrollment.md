@@ -12,7 +12,7 @@ These are the following steps for enrolling employees for leave
  
  ![alt-text](assets/23.png)
 
-2. Go to Timekeeping and Payroll > Leaves.
+2. Go to Employment and Movement > Leaves > Enrollment.
 3. Set the search filter then click `Search` button.
 ![alt-text](assets/leave/8.png)   
 

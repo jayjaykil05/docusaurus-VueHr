@@ -1,18 +1,69 @@
 {
   "docs": {
     "Employees": ["doc2"],
-    "Employment and Movement": ["importAttendance","doc11","payrollPosting"],
+    "Employment & Movement": [
+      {
+        "type" : "subcategory",
+        "label" : "Timekeeping",
+        "ids" : ["importAttendance","doc11","payrollPosting","leaveapp","obapp","otapp","holidayworkapp","restdayworkapp","timelogcorrections"]
+         
+        },
+        {
+          "type" : "subcategory",
+          "label" : "Payroll",
+          "ids" : ["doc9"]
+           
+        },
+        {
+          "type" : "subcategory",
+          "label" : "Leaves",
+          "ids" : ["leaveEnrollment"]
+          
+        }
+      ],
     "Departing": ["finalpay"],
     "Year End Processing": ["yearend"],
     "Reports": ["empreports","dtrreports","payrollreports","alphalistReports"],
-    "Setup": ["salariessetup","doc3"],
-    "Organization":["company","divdept","division","location","customGroup","pos","job"],
-    "Payroll": ["doc9"],
-    "Salary": ["doc10"],
-    "Work Schedules": ["doc12","addCalendar","importCalendar"],
-    "Leaves Entitlement":["leavetype","leaveconfig","leaveentitlement", "leaveEnrollment"],
-    "Benefit Entitlement":["benefit", "benefitentitlement"],
-    "Applications":["leaveapp","obapp","otapp","holidayworkapp","restdayworkapp","timelogcorrections"]
+    "Setup": [ 
+      {
+        "type" : "subcategory",
+        "label" : "Salaries",
+        "ids" : ["salariessetup","doc10"]
+        
+        },
+        {
+          "type" : "subcategory",
+          "label" : "Policies",
+          "ids" : ["doc3"]
+          
+        },
+        {
+          "type" : "subcategory",
+          "label" : "Work Schedules",
+          "ids" : ["doc12"]
+        
+        },
+        {
+          "type" : "subcategory",
+          "label" : "Calendars",
+          "ids" : ["addCalendar","importCalendar"]
+          
+        },
+        {
+          "type" : "subcategory",
+          "label" : "Benefit Entitlement",
+          "ids" : ["benefit", "benefitentitlement"]
+          
+        },
+        {
+          "type" : "subcategory",
+          "label" : "Leaves",
+          "ids" : ["leavetype","leaveconfig","leaveentitlement"]
+          
+        }
+    ],
+    "Organization":["company","divdept","division","location","customGroup","pos","job"]
+
 
   },
   "docs-other": {

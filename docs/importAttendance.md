@@ -12,7 +12,7 @@ title: Import Attendance
 
 ![alt-text](assets/Picture2.png)
 
-3. Go to Timekeeping and Payroll > Timekeeping > Processing
+3. Go to Employment and Movement > Timekeeping > Processing
  
 ![alt-text](assets/19.png)
 

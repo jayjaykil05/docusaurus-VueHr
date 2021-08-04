@@ -1,10 +1,10 @@
 ---
 id: doc9
-title: Payroll
+title: Generating Payroll
 ---
 All Posted DTRs friom the timekeeping processing will appear in the Payroll page.
 
-## Generating Payroll
+
 
 1. Login to Vue as an Admin or HR. 
 <!-- > **Note**: Click [here](/docs/users) to setup users. -->
