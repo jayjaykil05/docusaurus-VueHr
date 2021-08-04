@@ -1,11 +1,15 @@
 {
   "docs": {
     "Employees": ["doc2"],
+    "Employment and Movement": ["importAttendance","doc11","payrollPosting"],
+    "Departing": ["finalpay"],
+    "Year End Processing": ["yearend"],
+    "Reports": ["empreports","dtrreports","payrollreports","alphalistReports"],
+    "Setup": ["salariessetup","doc3"],
+    "Organization":["company","divdept","division","location","customGroup","pos","job"],
     "Payroll": ["doc9"],
     "Salary": ["doc10"],
-    "Timekeeping": ["doc3","importAttendance","doc11","payrollPosting"],
     "Work Schedules": ["doc12","addCalendar","importCalendar"],
-    "Organization":["company","divdept","division","location","customGroup","pos","job"],
     "Leaves Entitlement":["leavetype","leaveconfig","leaveentitlement", "leaveEnrollment"],
     "Benefit Entitlement":["benefit", "benefitentitlement"],
     "Applications":["leaveapp","obapp","otapp","holidayworkapp","restdayworkapp","timelogcorrections"]
