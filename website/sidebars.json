@@ -5,7 +5,7 @@
       {
         "type" : "subcategory",
         "label" : "Timekeeping",
-        "ids" : ["importAttendance","doc11","payrollPosting","leaveapp","obapp","otapp","holidayworkapp","restdayworkapp","timelogcorrections"]
+        "ids" : ["importAttendance","doc11","payrollPosting","leaveapp","obapp","otapp","holidayworkapp","restdayworkapp","timelogcorrections","offsetApp","timeAdj","undertimeApp","waiveUndertimeApp"]
          
         },
         {
