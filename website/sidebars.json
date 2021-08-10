@@ -5,7 +5,7 @@
       {
         "type" : "subcategory",
         "label" : "Timekeeping",
-        "ids" : ["importAttendance","doc11","payrollPosting","leaveapp","obapp","otapp","holidayworkapp","restdayworkapp","timelogcorrections","offsetApp","timeAdj","undertimeApp","waiveUndertimeApp"]
+        "ids" : ["importAttendance","doc11","leaveapp","obapp","otapp","holidayworkapp","restdayworkapp","timelogcorrections","offsetApp","timeAdj","undertimeApp","waiveUndertimeApp"]
          
         },
         {
@@ -33,9 +33,57 @@
         },
         {
           "type" : "subcategory",
+          "label" : "Band Level/Job Grade",
+          "ids" : ["bandlevel"]
+          
+        },
+        {
+          "type" : "subcategory",
           "label" : "Policies",
           "ids" : ["doc3"]
           
+        },
+        {
+          "type" : "subcategory",
+          "label" : "Rates",
+          "ids" : ["rates"]
+          
+        },
+        {
+          "type" : "subcategory",
+          "label" : "Government Benefits and Factors",
+          "ids" : ["govben"]
+          
+        },
+        {
+          "type" : "subcategory",
+          "label" : "Cut-Off Dates and Pay Periods",
+          "ids" : ["payperiod"]
+          
+        },
+        {
+          "type" : "subcategory",
+          "label" : "Benefit Entitlement",
+          "ids" : ["benefit", "benefitentitlement"]
+          
+        },
+        {
+          "type" : "subcategory",
+          "label" : "Leaves",
+          "ids" : ["leavetype","leaveconfig","leaveentitlement"]
+          
+        },
+        {
+          "type" : "subcategory",
+          "label" : "Loans",
+          "ids" : ["loantypes","loanentitle"]
+        
+        },
+        {
+          "type" : "subcategory",
+          "label" : "Allowance",
+          "ids" : ["allowancetype","allowanceent"]
+        
         },
         {
           "type" : "subcategory",
@@ -51,14 +99,20 @@
         },
         {
           "type" : "subcategory",
-          "label" : "Benefit Entitlement",
-          "ids" : ["benefit", "benefitentitlement"]
+          "label" : "Holiday",
+          "ids" : ["holiday"]
+          
+        },     
+        {
+          "type" : "subcategory",
+          "label" : "Roles & Permissions",
+          "ids" : ["roles"]
           
         },
         {
           "type" : "subcategory",
-          "label" : "Leaves",
-          "ids" : ["leavetype","leaveconfig","leaveentitlement"]
+          "label" : "Users",
+          "ids" : ["users"]
           
         }
     ],
