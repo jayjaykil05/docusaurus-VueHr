@@ -1,6 +1,6 @@
 ---
 id: doc3
-title: Policies
+title: Setup Timekeeping Policy for Employee
 ---
 
 These the policies available to VUE HR:
@@ -25,8 +25,6 @@ These the policies available to VUE HR:
 * Minimum Overtime Allowed 
 * Allow Overtime when Required Hours in Week Reached – Has to reach required hours before calculating overtime
 * Allow Overtime when Required Work in Month Reached – Has to reach required hours before calculating overtime
-
-## Setup Timekeeping Policy for Employee
 
 ### Using Employee Template
 
