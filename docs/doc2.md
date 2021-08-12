@@ -2,7 +2,7 @@
 id: doc2
 title: Add/Update Employee Profile
 ---
-In adding employees, these are the following steps you should follow.
+In importing employees through existing excel file, these are the following steps you should follow.
 
 ## Add/Update employees by import 
 

@@ -1,6 +1,24 @@
 {
   "docs": {
-    "Employees": ["doc2"],
+    "Employees":[
+      {
+        "type" : "subcategory",
+        "label" : "Import Employees",
+        "ids" : ["doc2"]        
+      },
+      {
+        "type" : "subcategory",
+        "label" : "Employees",
+        "ids" : ["emp"]
+         
+      },
+      {
+        "type" : "subcategory",
+        "label" : "Leads",
+        "ids" : ["leads"]
+         
+      }
+    ],
     "Employment & Movement": [
       {
         "type" : "subcategory",

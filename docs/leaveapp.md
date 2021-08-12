@@ -2,7 +2,7 @@
 id: leaveapp
 title: Leave Application
 ---
-Leave Application is used to apply for leaves that are entitled to employees
+Leave Application is used to apply for leaves that are entitled to employees. Leave Credits is given in Leave entitlement.
 
 These are the following steps for creating and deleting the Leave Applications.
 
