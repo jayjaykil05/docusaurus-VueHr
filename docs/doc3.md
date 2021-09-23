@@ -3,7 +3,7 @@ id: doc3
 title: Setup Timekeeping Policy for Employee
 ---
 
-These the policies available to VUE HR:
+These are the policies available to the VUE HR system:
 
 * Required Hours Per Week 
 * Required Hours Per Day 

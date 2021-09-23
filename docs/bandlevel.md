@@ -2,6 +2,7 @@
 id: bandlevel
 title: Creating and Editing Band Level
 ---
+The Band Level page is used to create a band level to identify what level within the classification system assigned to an employee and his job position.
 
 ## Display List of Band Levels
 1. Login to Vue using Admin or HR account. 
