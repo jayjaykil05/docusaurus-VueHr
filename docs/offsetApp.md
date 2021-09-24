@@ -2,7 +2,7 @@
 id: offsetApp
 title: Offset Applications
 ---
-The Offset Application page is used to Create,Approve and Decline an employee's offset application.
+This page is used to Create,Approve and Decline an employee's offset application.
 
 ## Display List of Employee Offset Application
 1. Login to Vue using Admin or HR account. 

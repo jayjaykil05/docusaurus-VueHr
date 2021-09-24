@@ -2,33 +2,9 @@
 id: restdayworkapp
 title: Rest Day Work Request Application
 ---
-Rest Day Work Request Application is used to apply for Rest Day work requests
-
-These are the following steps for creating and deleting the Rest Day Work Request.
-
-## Create Rest Day Work Request Applications 
-
-1. Login to Vue using  Admin/HR account.
- 
- ![alt-text](assets/23.png)
-
-2. Go to Employment and Movement > Timekeeping > Processing > Rest Day Work Application.
-
-![alt-text](assets/restd/1.png)  
-
-3. Click `Create New Rest Day Work` button.
-
-![alt-text](assets/restd/2.png)  
-
-5. Select an employee, date, time in, time out, is paid break , break minutes and then click `Create` button.
-
-> **Note** Click `Cancel` button to cancel create Rest Day Work Request.
-
-![alt-text](assets/restd/3.png)  
-
+This page is for approving and declining Rest Day Work Request Application.
 
 ## Approving Rest Day Work Request Applications 
-
 
 1. Login to Vue using Admin or HR account. 
 

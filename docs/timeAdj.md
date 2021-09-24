@@ -2,7 +2,7 @@
 id: timeAdj
 title: Time Adjustments
 ---
-Time Adjustments page is used to create, approve and decline an application to adjust an emmployee's Time in/Time out.
+This page is used to create, approve and decline an application to adjust an employee's Time in/Time out.
 
 ## Display List of Employee Time Adjustment Application
 1. Login to Vue using Admin or HR account. 

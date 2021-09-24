@@ -2,9 +2,7 @@
 id: obapp
 title: Official Business Application
 ---
-The Official Business page is for applying, approving and declining official business applications.
-
-These are the following steps for creating and deleting the Official Business.
+This page is for applying, approving and declining official business applications.
 
 ## Create Official Business Applications 
 

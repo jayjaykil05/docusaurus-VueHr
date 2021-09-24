@@ -2,9 +2,7 @@
 id: otapp
 title: Overtime Application
 ---
-Overtime Application is used to apply for overtimes that are entitled to employees
-
-These are the following steps for creating and deleting the Overtime.
+This page is for applying, approving and declining Overtime Applications.
 
 ## Create Overtime Applications 
 

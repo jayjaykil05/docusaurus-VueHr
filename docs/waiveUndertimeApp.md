@@ -2,9 +2,7 @@
 id: waiveUndertimeApp
 title: Waive Undertime Applications
 ---
-Waive Undertime page is used to create, approve and decline waive undertime application of an employee.
-
-These are the following steps for create, approve and decline the Waive Undertime Applications.
+This page is for applying, approving and declining Waive Undertime Applications.
 
 ## Display List of Employee Waive Undertime Application
 1. Login to Vue using Admin or HR account. 
