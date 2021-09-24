@@ -29,7 +29,7 @@
         {
           "type" : "subcategory",
           "label" : "Payroll",
-          "ids" : ["doc9","paslipView"]
+          "ids" : ["doc9","payslipView"]
            
         },
         {

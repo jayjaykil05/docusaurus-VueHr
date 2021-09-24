@@ -2,6 +2,7 @@
 id: undertimeApp
 title: Undertime and Overbreak Applications
 ---
+Undertime and Overbreak page is create, approve and decline an application for Undertime or Overbreak of an employee.
 
 ## Display List of Employee Undertime Application
 1. Login to Vue using Admin or HR account. 

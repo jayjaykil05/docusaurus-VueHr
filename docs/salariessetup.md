@@ -2,7 +2,27 @@
 id: salariessetup
 title: Creating and Editing Salaries
 ---
+This page is to display/setup the salaries of all employees. These are the steps to display and create/edit salaries.
+
+These are the periods available: 
+* Period_15/30
+* Weekly_Monday
+* Weekly_Tuesday
+* Weekly_Thursday
+* Weekly_Friday
+* Weekly_Saturday
+* Weekly_Sunday
+
+These are the salary types: 
+* Semi-Monthly
+* Monthly
+* Daily
+
+> **Note**: SalaryType is how the payroll for the employee is calculated.
+
+
 ## Display Employee Salaries
+
 1. Login to Vue using Admin or HR account. 
 
 ![alt-text](assets/Picture2.png)

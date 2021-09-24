@@ -3,6 +3,8 @@ id: doc11
 title: Processing
 
 ---
+the Employee Processing page is where attendance are edited and posted for payroll purposes.
+
 
 ## Display Timekeeping
 

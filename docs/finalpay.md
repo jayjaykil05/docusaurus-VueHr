@@ -2,8 +2,9 @@
 id: finalpay
 title: Final Pay
 ---
+Final Pay is an employees final pay
 
-To Generate Pay, these are the steps to follow.
+To Generate Final Pay, these are the steps to follow.
 
 1. Login to Vue using Admin or HR account. 
 

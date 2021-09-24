@@ -4,21 +4,21 @@ title: Import Salary
 
 ---
 
-Salary entry is generated automatically with 0 amount when a new employee is added.
-To update an employee's salary or multiple salsaries, Admin/HR users can either import salaries using the template or manually edit their salary in the salary page.
+These are the steps for importing employee's salary from an excel file. If no salary amount is inputted in the excel file salary amount will default to 0.
 
 These are the periods available: 
-* Period_15/30, 
-* Weekly_Monday, 
-* Weekly_Tuesday, 
-* Weekly_Thursday, 
-* Weekly_Friday, 
-* Weekly_Saturday, 
+* Period_15/30
+* Weekly_Monday
+* Weekly_Tuesday
+* Weekly_Thursday
+* Weekly_Friday
+* Weekly_Saturday
 * Weekly_Sunday
 
 These are the salary types: 
-* Semi-Monthly, 
-* Monthly, Daily
+* Semi-Monthly
+* Monthly
+* Daily
 
 > **Note**: SalaryType is how the payroll for the employee is calculated.
 

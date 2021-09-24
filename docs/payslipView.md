@@ -16,7 +16,12 @@ These are the steps to view a selected employee's Payslip.
 
 3. Set the search filter then click search.
 
-4. Click employee name in `Payroll` table to display employee payslip.
+![alt-text](assets/payslip/3.png)
 
+4. Click employee name in `Payroll` table.
 
+![alt-text](assets/payslip/1.png)
 
+5. A new tab will be opened and will display the Payslip
+
+![alt-text](assets/payslip/2.png)
