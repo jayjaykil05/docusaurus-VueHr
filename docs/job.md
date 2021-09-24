@@ -3,6 +3,7 @@ id: job
 title: Job Title
 
 ---
+This page is for creating, updating and deleting Job Titles.
 
 ## Create New Job Title 
 

@@ -2,6 +2,7 @@
 id: govben
 title: Setup Government Benefits and Factors
 ---
+This page is for creating, updating and deleting Government Benefits and Factors.
 
 ## Display List of Payroll Configurations
 1. Login to Vue using Admin or HR account. 

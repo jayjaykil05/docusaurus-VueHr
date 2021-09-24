@@ -3,7 +3,7 @@ id: division
 title: Division
 
 ---
-These are the following steps for creating, updating and deleting Division.
+This page is for creating, updating and deleting Division.
 
 ## Create New Division 
 

@@ -2,6 +2,7 @@
 id: rates
 title: Setup Rates
 ---
+This page is for updating and deleting Rates.
 
 ## Display Rates
 

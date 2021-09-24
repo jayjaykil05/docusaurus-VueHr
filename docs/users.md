@@ -29,7 +29,7 @@ title: Setup Users
 
 4. Input needed details and click `Create` button.
 
-![alt-text](assets/govben/3.png)
+![alt-text](assets/users/3.png)
 
 ## Delete Users
 

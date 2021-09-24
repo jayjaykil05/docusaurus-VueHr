@@ -3,9 +3,7 @@ id: company
 title: Company
 
 ---
-This is used to determine an employee's company.
-
-These are the following steps for creating, updating and deleting Company.
+This page is for creating, updating and deleting Companies.
 
 ## Creating New Company
 

@@ -3,7 +3,7 @@ id: location
 title: Location
 
 ---
-These are the following steps for creating, updating and deleting Location.
+This page is for creating, updating and deleting Locations.
 
 ## Create New Location 
 
